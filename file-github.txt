@@ -3,3 +3,5 @@ linux
 vscode
 database
 process
+management
+system
